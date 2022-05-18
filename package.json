@@ -1,0 +1,16 @@
+{
+    "name": "drunken_circles",
+    "version": "1.0.0",
+    "description": "**[Live Demo][live-demo]**",
+    "main": "index.js",
+    "scripts": {
+        "webpack": "webpack --config webpack.config.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "webpack": "^5.72.1",
+        "webpack-cli": "^4.9.2"
+    }
+}
